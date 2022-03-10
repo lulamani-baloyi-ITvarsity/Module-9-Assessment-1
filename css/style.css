@@ -1,5 +1,5 @@
 body {
-    background-color: #009788;
+    background-color: #80515163;
     font-family: "Raleway", sans-serif;
     text-align: center;
 }
@@ -9,7 +9,7 @@ body {
 }
 
 p {
-    color: #ffffff;
+    color: #4d2727;
     font-size: 10vw;
 }
 
@@ -29,7 +29,7 @@ p {
 
 .roundButton {
     border-radius: 50%;
-    background-color: #ffffff;
+    background-color: #80515163;
     border: 0;
     width: 5rem;
     height: 5rem;
@@ -47,7 +47,7 @@ p {
 }
 
 .select {
-    background-color: white;
+    background-color: #80515163;
     padding: .8rem 1.4rem .9rem .8rem;
     width: 30%;
     border-radius: .5rem;
